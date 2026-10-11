@@ -197,8 +197,9 @@ Tools that help AI organize information visually.
 
 # 📊 Data & Spreadsheets
 
-- **[Excel MCP](https://github.com/haris-musa/excel-mcp-server)** — Read, write, format, chart, and manage Excel workbooks.
 - **[BigQuery MCP](https://github.com/LucasHild/mcp-server-bigquery)** — Query BigQuery data through MCP.
+- **[Excel MCP](https://github.com/haris-musa/excel-mcp-server)** — Read, write, format, chart, and manage Excel workbooks.
+- **[Invokely](https://invokely.ai/docs)**: Query source-cited official statistics by indicator and place, with time series, comparisons, and rankings for the U.S., EU, Spain, other countries and the world.
 - **[MotherDuck MCP](https://github.com/motherduckdb/mcp-server-motherduck)** — Query and analyze MotherDuck and DuckDB data.
 - **[Powerdrill MCP](https://github.com/powerdrillai/powerdrill-mcp)** — Analyze datasets with AI.
 - **[Snowflake MCP](https://github.com/isaacwasserman/mcp-snowflake-server)** — Query and interact with Snowflake.
